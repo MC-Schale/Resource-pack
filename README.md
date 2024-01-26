@@ -1,3 +1,9 @@
+# 通知
+
+目前我(KFACBT)和 `MC-Schale` 服务器的创始人发生了一些冲突
+
+此存储库无限期停止维护。
+
 # Resource-Pack
 
 <div align="center">
